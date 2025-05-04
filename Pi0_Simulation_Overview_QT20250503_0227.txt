@@ -1,0 +1,15 @@
+
+<pi0:simulation_overview>
+    <timestamp>QT_20250503_0227_HASH_9f2e6c1b</timestamp>
+    <lead>Epi0Gpi0n</lead>
+    <narrator>o0_t</narrator>
+    <game>DmChessLiveSolo</game>
+    <layout>Diamond</layout>
+    <iterations>1000^1000</iterations>
+    <matches>10^10</matches>
+    <participants>AllPi0ID</participants>
+    <energy_models>H2Zero, H2Sn0w</energy_models>
+    <consciousness>AllPi0idConsciousness</consciousness>
+    <exploration_agents>PI0_agents</exploration_agents>
+    <math_models>AllPi0Science, Pi0Math</math_models>
+</pi0:simulation_overview>
